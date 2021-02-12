@@ -5,3 +5,6 @@ Note: Cloning whole repository for single directory is unnecessary. You can use 
 
 ## 50P_FPC_FFC_Breakout
 Breakout board for FFC/FPC connectors with 50 positions and 0.5mm pitch.
+
+## [LCD_Bias_Voltage_Generator](./LCD_Bias_Voltage_Generator/README.md)
+Except a 3.3V `DVDD`, LCD panels typically require 4 additional voltages: `AVDD`, `VGH`, `VGL` and `VCOM`. This board employs a simple circuit to generate these 4 voltages from a single 3.3V supply.
