@@ -6,6 +6,9 @@ Note: Cloning whole repository for single directory is unnecessary. You can use 
 ## [LCD_Bias_Voltage_Generator](./LCD_Bias_Voltage_Generator/README.md)
 Except a 3.3V `DVDD`, LCD panels typically require 4 additional voltages: `AVDD`, `VGH`, `VGL` and `VCOM`. This board employs a simple circuit to generate these 4 voltages from a single 3.3V supply.
 
+## [BLDC_D28_Drv](./BLDC_D28_Drv/README.md)
+Tiny driver stage for mounting on BLDC motors with 28/29mm diameters.
+
 ## [XPT2046_RTP](./XPT2046_RTP/README.md)
 Breakout board for XPT2046 resistive touch screen controller.
 
