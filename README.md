@@ -15,5 +15,8 @@ Breakout board for XPT2046 resistive touch screen controller.
 ## 50P_FPC_FFC_Breakout
 Breakout board for FFC/FPC connectors with 50 positions and 0.5mm pitch.
 
+## 24P_FPC_FFC_Breakout
+Breakout board for FFC/FPC connectors with 24 positions and 0.5mm pitch.
+
 ## 14P_FPC_FFC_Breakout
 Breakout board for FFC/FPC connectors with 14 positions and 0.5mm pitch.
