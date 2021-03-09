@@ -6,6 +6,9 @@ Note: Cloning whole repository for single directory is unnecessary. You can use 
 ## [LCD_Bias_Voltage_Generator](./LCD_Bias_Voltage_Generator/README.md)
 Except a 3.3V `DVDD`, LCD panels typically require 4 additional voltages: `AVDD`, `VGH`, `VGL` and `VCOM`. This board employs a simple circuit to generate these 4 voltages from a single 3.3V supply.
 
+## [PCA9685_Breakout](./PCA9685_Breakout/README.md)
+Breakout board for PCA9685 I²C to 16-channel PWM controller.
+
 ## [BLDC_D28_Drv](./BLDC_D28_Drv/README.md)
 Tiny driver stage for mounting on BLDC motors with 28/29mm diameters.
 
