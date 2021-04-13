@@ -12,6 +12,9 @@ Breakout board for PCA9685 I²C to 16-channel PWM controller.
 ## [BLDC_D28_Drv](./BLDC_D28_Drv/README.md)
 Tiny driver stage for mounting on BLDC motors with 28/29mm diameters.
 
+## [CH224Core](./CH224Core/README.md)
+Tiny breakout board for CH224K USB-PD sink IC.
+
 ## [XPT2046_RTP](./XPT2046_RTP/README.md)
 Breakout board for XPT2046 resistive touch screen controller.
 
