@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ch224base-rescue)(type Legacy)(uri ${KIPRJMOD}/ch224base-rescue.lib)(options "")(descr ""))
+)
