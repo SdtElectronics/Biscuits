@@ -3,6 +3,9 @@ This repository contains various PCB works for minor projects or auxiliary purpo
 
 Note: Cloning whole repository for single directory is unnecessary. You can use [DownGit](https://minhaskamal.github.io/DownGit/#/home) to download single directories or file.
 
+## [BBSink](./BBSink/README.md)
+USB-PD sink with headers compatible with breadboard. Features a fixed 3.3V supply and one-click voltage selection without incorporating MCUs
+
 ## [LCD_Bias_Voltage_Generator](./LCD_Bias_Voltage_Generator/README.md)
 Except a 3.3V `DVDD`, LCD panels typically require 4 additional voltages: `AVDD`, `VGH`, `VGL` and `VCOM`. This board employs a simple circuit to generate these 4 voltages from a single 3.3V supply.
 
