@@ -6,12 +6,14 @@ Note: Cloning whole repository for single directory is unnecessary. You can use 
 ## [BBSink](./bbSink/README.md)
 USB-PD sink with headers compatible with breadboard. Features a fixed 3.3V supply and one-click voltage selection without incorporating MCUs
 
+![BBSink](gallery/bbSink_0.jpg)
 ## [LCD_Bias_Voltage_Generator](./LCD_Bias_Voltage_Generator/README.md)
 Except a 3.3V `DVDD`, LCD panels typically require 4 additional voltages: `AVDD`, `VGH`, `VGL` and `VCOM`. This board employs a simple circuit to generate these 4 voltages from a single 3.3V supply.
 
 ## [PCA9685_Breakout](./PCA9685_Breakout/README.md)
 Breakout board for PCA9685 I²C to 16-channel PWM controller.
 
+![PCA9685_Breakout](gallery/PCA9685_Breakout_0.jpg)
 ## [BLDC_D28_Drv](./BLDC_D28_Drv/README.md)
 Tiny driver stage for mounting on BLDC motors with 28/29mm diameters.
 
@@ -21,14 +23,24 @@ Tiny breakout board for CH224K USB-PD sink IC.
 ## [XPT2046_RTP](./XPT2046_RTP/README.md)
 Breakout board for XPT2046 resistive touch screen controller.
 
+## yuyuyu_ant
+Antenna for α-wave transmission( XD
+
+![yuyuyu_ant](gallery/yuyuyu_ant_0.jpg)
 ## 50P_FPC_FFC_Breakout
 Breakout board for FFC/FPC connectors with 50 positions and 0.5mm pitch.
+
+## 40P_FPC_FFC_Breakout
+Breakout board for FFC/FPC connectors with 40 positions and 0.5mm pitch.
 
 ## 24P_FPC_FFC_Breakout
 Breakout board for FFC/FPC connectors with 24 positions and 0.5mm pitch.
 
 ## 14P_FPC_FFC_Breakout
 Breakout board for FFC/FPC connectors with 14 positions and 0.5mm pitch.
+
+## 9P_FPC_FFC_Breakout
+Breakout board for FFC/FPC connectors with 14 positions and 0.5mm or 1mm pitch.
 
 ## Licence
 All projects contained in this repository, unless otherwise stated, are available under the [CERN OHL-w v2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) licence. 
